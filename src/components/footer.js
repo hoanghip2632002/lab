@@ -4,7 +4,7 @@ const footer = {
 
         <footer class="bg-indigo-800 py-4 ">
        
-        <p class="text-gray-300 text-center">Nguyen thi van</p>
+        <p class="text-gray-300 text-center">Nguyen hoang hiep ph17225</p>
       </footer>
 
 
